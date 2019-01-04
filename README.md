@@ -19,6 +19,7 @@
 4. Books:
     * Design Pattern : <https://addyosmani.com/resources/essentialjsdesignpatterns/book/>
     * Js : <https://www.dropbox.com/s/eei7x76f2qhy1a8/JavaScript%20the%20Good%20Parts.pdf?dl=0>
+    * Js w browser : <http://eloquentjavascript.net/>
     
 
 
