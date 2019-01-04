@@ -7,6 +7,10 @@
 3. Architecture : <https://www.youtube.com/watch?v=AERbIntqfTk>
 4. Forms : <https://helpx.adobe.com/aem-forms/6/aem-forms-architecture-deployment.html>
 5. Tutorial : <https://helpx.adobe.com/experience-manager/using/first_aem63_website.html>
+6. Tech : <http://felix.apache.org/>
+7. Tech : <https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/reference-materials/granite-ui/api/jcr_root/libs/granite/ui/index.html>
+8. Tech : <https://github.com/apache/jackrabbit>
+9. Tech : <https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/reference-materials/coral-ui/coralui3/getting-started.html>
 
 ### JavaScript
 1.  DOM event cycle : <https://medium.com/prod-io/javascript-understanding-dom-event-life-cycle-49e1cf62b2ea>
