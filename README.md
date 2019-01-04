@@ -13,7 +13,8 @@
 9. Tech : <https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/reference-materials/coral-ui/coralui3/getting-started.html>
 
 ### JavaScript
-1.  DOM event cycle : <https://medium.com/prod-io/javascript-understanding-dom-event-life-cycle-49e1cf62b2ea>
+1. DOM event cycle : <https://medium.com/prod-io/javascript-understanding-dom-event-life-cycle-49e1cf62b2ea>
+2. React : <https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG&fbclid=IwAR3gq6WTDyFysliVz27FKkrvjaOIQtT7888AwtWLc5ehtuyL-ai32vBw-FI>
 
 ### Spring MVC
 1. Intro : <https://www.baeldung.com/spring-classpathxmlapplicationcontext>
