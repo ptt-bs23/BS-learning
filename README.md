@@ -20,6 +20,13 @@
     * Design Pattern : <https://addyosmani.com/resources/essentialjsdesignpatterns/book/>
     * Js : <https://www.dropbox.com/s/eei7x76f2qhy1a8/JavaScript%20the%20Good%20Parts.pdf?dl=0>
     * Js w browser : <http://eloquentjavascript.net/>
+5. NodeJs:
+    * Graphql : <https://github.com/mugli/learning-graphql>
+    * Graphql : <https://codingthesmartway.com/creating-a-graphql-server-with-node-js-and-express/>
+    * Express Js : <https://www.tutorialspoint.com/expressjs/>
+    * intro : <https://www.tutorialspoint.com/nodejs/nodejs_first_application.htm>
+    * resources : <https://github.com/sindresorhus/awesome-nodejs>
+    
     
 
 
