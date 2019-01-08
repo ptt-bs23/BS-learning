@@ -26,6 +26,7 @@
     * Express Js : <https://www.tutorialspoint.com/expressjs/>
     * intro : <https://www.tutorialspoint.com/nodejs/nodejs_first_application.htm>
     * resources : <https://github.com/sindresorhus/awesome-nodejs>
+    * Graphql : <https://www.howtographql.com/>
     
     
 
