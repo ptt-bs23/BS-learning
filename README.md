@@ -15,7 +15,9 @@
 ### JavaScript
 1. DOM event cycle : <https://medium.com/prod-io/javascript-understanding-dom-event-life-cycle-49e1cf62b2ea>
 2. React : <https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG&fbclid=IwAR3gq6WTDyFysliVz27FKkrvjaOIQtT7888AwtWLc5ehtuyL-ai32vBw-FI>
-3. ES6 : <http://es6-features.org/#Constants>
+3. ES6 : 
+* <http://es6-features.org/#Constants>
+*  <https://zellwk.com/blog/es6/#arrow-functions>
 4. Books:
     * Design Pattern : <https://addyosmani.com/resources/essentialjsdesignpatterns/book/>
     * Js : <https://www.dropbox.com/s/eei7x76f2qhy1a8/JavaScript%20the%20Good%20Parts.pdf?dl=0>
