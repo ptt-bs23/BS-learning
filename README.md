@@ -1,6 +1,12 @@
 # BS-learning
 
 
+### Python + Django
+
+1. Docs: <https://docs.djangoproject.com/en/2.1/>
+2. Video : <https://www.youtube.com/watch?v=uu98pqiUJU8&list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW>
+
+
 ### Adobe Experience Manager
 1. Intro : <https://www.youtube.com/watch?v=zA53zv0l-9I&list=PL2rn7ZBYpBjtPyy5-pEBxwwIowcIoVv40>
 2. Basics : <https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/components-basics.html>
